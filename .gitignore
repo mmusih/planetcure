@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.zip
+docs/
+history/
+release/
+node_modules/
+*.mobirise
+publish-hashes.json

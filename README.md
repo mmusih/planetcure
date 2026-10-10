@@ -10,7 +10,7 @@ Upload the HTML files, `assets/` and `fonts/` to the document root for planetcur
 
 ## App information
 
-`Apps.html` identifies Planetcure Projects (Pty) Ltd. as publisher, DB Systems as developer, and Kweneng International Secondary School as the customer. Parent support is directed to admin@kwenenginternational.com.
+`Apps.html` identifies Planetcure Projects (Pty) Ltd. as publisher, Digitalcore Business Systems (Pty) Ltd. as developer, and Kweneng International Secondary School as the customer. Parent support is directed to admin@kwenenginternational.com.
 
 This repository contains public website files only. It does not include a finalized app privacy policy. Publishing these files does not establish Google Play compliance.
 
